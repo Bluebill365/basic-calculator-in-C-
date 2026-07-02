@@ -1,0 +1,14 @@
+C:\development\tuts\obj\Debug\net9.0\tuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\tuts\obj\Debug\net9.0\tuts.AssemblyInfoInputs.cache
+C:\development\tuts\obj\Debug\net9.0\tuts.AssemblyInfo.cs
+C:\development\tuts\obj\Debug\net9.0\tuts.csproj.CoreCompileInputs.cache
+C:\development\tuts\bin\Debug\net9.0\tuts.exe
+C:\development\tuts\bin\Debug\net9.0\tuts.deps.json
+C:\development\tuts\bin\Debug\net9.0\tuts.runtimeconfig.json
+C:\development\tuts\bin\Debug\net9.0\tuts.dll
+C:\development\tuts\bin\Debug\net9.0\tuts.pdb
+C:\development\tuts\obj\Debug\net9.0\tuts.dll
+C:\development\tuts\obj\Debug\net9.0\refint\tuts.dll
+C:\development\tuts\obj\Debug\net9.0\tuts.pdb
+C:\development\tuts\obj\Debug\net9.0\tuts.genruntimeconfig.cache
+C:\development\tuts\obj\Debug\net9.0\ref\tuts.dll
