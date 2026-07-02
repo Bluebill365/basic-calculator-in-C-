@@ -6,37 +6,13 @@ namespace Tuts
      {
           static void Main(string[] args)
           {
-              Console.WriteLine("----Calculator----");
-              symbols = Console.ReadLine("Choose Operand (+,-,/,*)");
-          
-               //Operand Section
-              int value1 = Console.ReadLine(Console.WriteLine("Enter Value 1: "));
-              int value2 = Console.ReadLine(Console.WriteLine("Enter Value 2: "));
 
-              if (symbols == "+")
-               {
-                    solution = value1 + value2;
-                    Console.WriteLine(solution);
-               }
-               else if (symbols == "-")
-               {
-                    solution = value1 - value2;
-                    Console.WriteLine(solution);
-               }
-               else if (symbols == "/")
-               {
-                    solution = value1 / value2;
-                    Console.WriteLine(solution);
-               }
-               else if (symbols == "*")
-               {
-                    solution = value1 * value2;
-                    COnsole.WriteLine(solution);
-               }
-               else
-               {
-                    Console.WriteLine("Invalid Operand, Try again....");
-               }
+               int number1, number2, result;
+              Console.WriteLine("----Calculator----");
+              Console.WriteLine("Please enter the first number: ");
+
+
+             Console.ReadKey();
           }
      }
 }

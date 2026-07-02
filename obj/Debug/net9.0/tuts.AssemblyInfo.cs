@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tuts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d1fa234430cb020c28aa00e22f88f1ec162788")]
 [assembly: System.Reflection.AssemblyProductAttribute("tuts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tuts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

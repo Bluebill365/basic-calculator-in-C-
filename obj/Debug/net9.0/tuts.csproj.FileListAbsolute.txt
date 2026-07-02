@@ -12,3 +12,4 @@ C:\development\tuts\obj\Debug\net9.0\refint\tuts.dll
 C:\development\tuts\obj\Debug\net9.0\tuts.pdb
 C:\development\tuts\obj\Debug\net9.0\tuts.genruntimeconfig.cache
 C:\development\tuts\obj\Debug\net9.0\ref\tuts.dll
+C:\development\tuts\obj\Debug\net9.0\tuts.sourcelink.json
